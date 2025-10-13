@@ -6,9 +6,5 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
-
-algorithm.iml
-misc.xml
-modules.xml
+.idea
 README_TEMPLATE.md
-vcs.xml
