@@ -11,3 +11,5 @@ fun main() {
 
     companySet.sortedDescending().joinToString("\n").also{ println(it) }
 }
+
+main()
